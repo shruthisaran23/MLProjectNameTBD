@@ -1,5 +1,4 @@
 # MLProjectNameTBD
-MLProjectNameTBD
 Introduction/Background:
 In this report, we are predicting the occurrence of diabetes based on lifestyle which involves macronutrient breakdown and exercise activity. There is prior work done regarding diabetes classification and predictive analysis for diabetes. Classification of diabetes is a crucial step for predicting diabetes, however it’s a difficult task since it involves analyzing multiple different factors which can lead to inaccurate results. Several techniques were used for diabetes prediction including a stacking-based ensemble method as well as data mining techniques such as random forest, logistic regression, and naïve Bayes. These techniques outperformed the state-of-the-art approach with 79% accuracy. The dataset that we plan to use is the NHANES 2017-March 2020 Pre-Pandemic Questionnaire Data which includes many features such as blood sugar levels, age, insulin, diet, and physical activity.
  
