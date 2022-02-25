@@ -10,3 +10,20 @@ The first step will be gathering data about what factors are important in diagno
  
 Potential Results/Discussion:
 The potential results for this project is to build a program that will be able to take into account certain lifestyle markers of an individual such as diet, physical exercise, alcohol consumption, etc. Using these factors we hope to predict if an individual is at risk of getting diagnosed with diabetes and if so, what specific type(s) of diabetes they are at risk for. What we need to focus on is the types of markers we need to collect in order to make these observations as well as solidifying which datasets to use in order to train our models. With more research we should be able to narrow down exactly what we hope for our program to calculate and predict.
+
+References:
+ 
+Umair Muneer Butt, Sukumar Letchmunan, Mubashir Ali, Fadratul Hafinaz Hassan, Anees
+Baqir, Hafiz Husnain Raza Sherazi, "Machine Learning Based Diabetes Classification and Prediction for Healthcare Applications", Journal of Healthcare Engineering, vol. 2021, Article ID 9930985, 17 pages, 2021. https://doi.org/10.1155/2021/9930985
+ 
+World Bank. "Health Nutrition And Population Statistics" World Development Indicators. The
+World Bank Group, 23 Feb, 2022, datacatalog.worldbank.org/search/dataset/0037652. Accessed 23 Feb. 2022.
+ 
+Michael Kahn. Diabetes Data Set. UCI Machine Learning Repository
+[https://archive.ics.uci.edu/ml/datasets/diabetes]. Irvine, CA: University of California, School of Information and Computer Science.
+ 
+Ahmadi, F., Ganjkhanloo, F., &amp; Ghobadi, K. (n.d.). (rep.). An Open-Source Dataset on
+Dietary Behaviors and DASH Eating Plan Optimization Constraints. https://arxiv.org/pdf/2010.07531.pdf
+
+Video: https://drive.google.com/file/d/1LSW8XoqUXLgCi-9fC9GwxAAoTZzgAfz2/view?usp=sharing
+
